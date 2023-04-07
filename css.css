@@ -1,0 +1,23 @@
+#first {
+font-size:30px;
+}
+#second {
+font-size:30px;
+}
+#third {
+font-size:30px;
+}
+#fourth {
+font-size:30px;
+}
+#fifth {
+font-size:30px;
+}
+.code {
+  background-color:rgba(250,250,0,0.5)
+}
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: #E1F6FF;
+  }
+}
